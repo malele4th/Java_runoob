@@ -1,10 +1,10 @@
 ##  Java 集合框架图
 
-* Collection
+*Collection*
 
 
 <div align="center">
-<img src="https://github.com/malele4th/Java_runoob/blob/master/collection/picture/collection.png" width=60% height=60% />  
+<img src="https://github.com/malele4th/Java_runoob/blob/master/collection/picture/collection.png" width=90% height=90% />  
 </div>
 
 <div align="center">
