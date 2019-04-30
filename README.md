@@ -12,10 +12,8 @@ Beginner tutorial of Java
 * Stream、File、IO、Scanner类、异常处理
 
 ### 菜鸟教程 Java面向对象 [部分代码](https://github.com/malele4th/Java_runoob/tree/master/classobject)
-* 继承
-* 重写、重载
-* 多态
-* 抽象类
-* 封装
-* 接口
-* package
+* 继承；重写、重载；多态；抽象类；封装；接口；package
+
+### 菜鸟教程 Java高级教程 1 数据结构 [部分代码](https://github.com/malele4th/Java_runoob/tree/master/datastructure)
+* 枚举（Enumeration）、位集合（BitSet）、向量（Vector）、栈（Stack）
+* 字典（Dictionary）、哈希表（Hashtable）、属性（Properties）
