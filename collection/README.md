@@ -6,7 +6,7 @@
 
 
 <div align="center">
-<img src="https://github.com/malele4th/Java_runoob/blob/master/collection/picture/collection.png" width=90% height=90% />  
+<img src="https://github.com/malele4th/Java_runoob/blob/master/collection/picture/collection.png" />  
 </div>
 
 <div align="center">
