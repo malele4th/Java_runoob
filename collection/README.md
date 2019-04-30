@@ -2,9 +2,6 @@
 
 **Collection**
 
-<font color=red>我是红色</font>
-
-
 <div align="center">
 <img src="https://github.com/malele4th/Java_runoob/blob/master/collection/picture/collection.png" />  
 </div>
