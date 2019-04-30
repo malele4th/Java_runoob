@@ -1,6 +1,8 @@
 ##  Java 集合框架图
 
-*Collection*
+**Collection**
+
+<font color=red>我是红色</font>
 
 
 <div align="center">
