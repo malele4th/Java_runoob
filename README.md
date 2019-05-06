@@ -30,5 +30,9 @@ Beginner tutorial of Java
 * 序列化对象（持久化、写入磁盘），transient关键字
 * 反序列化
 
-#### 菜鸟教程 Java高级教程 5 网络编程 [部分代码](https://github.com/malele4th/Java_runoob/tree/master/Internet) 
+#### 菜鸟教程 Java高级教程 5 网络编程 [部分代码](https://github.com/malele4th/Java_runoob/tree/master/internet) 
 * Socket编：ServerSocket类、Socket类、URL处理
+
+#### 菜鸟教程 Java高级教程 6 多线程编程 [部分代码](https://github.com/malele4th/Java_runoob/tree/master/thread) 
+* 多线程5种状态：新建、就绪、运行、阻塞、死亡
+* 创建线程的3种方法：实现Runnable接口、继承Thread类、通过Callable和Future创建
