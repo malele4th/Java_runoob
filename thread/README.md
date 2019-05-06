@@ -4,3 +4,11 @@
 * 运行状态（Running）
 * 阻塞状态（Blocked）
 * 死亡状态（Died）
+
+<div align="center">
+<img src="https://github.com/malele4th/thread/blob/master/picture/java-thread.jpg" />  
+</div>
+
+<div align="center">
+<img src="https://github.com/malele4th/thread/blob/master/picture/java-thread2.jpg" />  
+</div>
