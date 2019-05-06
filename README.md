@@ -30,7 +30,7 @@ Beginner tutorial of Java
 * 序列化对象（持久化、写入磁盘），transient关键字
 * 反序列化
 
-#### 菜鸟教程 Java高级教程 5 网络编程 [部分代码](https://github.com/malele4th/Java_runoob/tree/master/internet) 
+#### 菜鸟教程 Java高级教程 5 网络编程 [部分代码](https://github.com/malele4th/Java_runoob/tree/master/Internet) 
 * Socket编：ServerSocket类、Socket类、URL处理
 
 #### 菜鸟教程 Java高级教程 6 多线程编程 [部分代码](https://github.com/malele4th/Java_runoob/tree/master/thread) 
