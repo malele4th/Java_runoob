@@ -6,9 +6,9 @@
 * 死亡状态（Died）
 
 <div align="center">
-<img src="https://github.com/malele4th/thread/blob/master/picture/java-thread.jpg" />  
+<img src="https://github.com/malele4th/Java_runoob/blob/master/thread/picture/java-thread.jpg" />  
 </div>
 
 <div align="center">
-<img src="https://github.com/malele4th/thread/blob/master/picture/java-thread2.jpg" />  
+<img src="https://github.com/malele4th/Java_runoob/blob/master/thread/picture/java-thread2.jpg" />  
 </div>
