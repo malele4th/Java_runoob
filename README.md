@@ -25,3 +25,10 @@ Beginner tutorial of Java
 
 #### 菜鸟教程 Java高级教程 3 泛型 [部分代码](https://github.com/malele4th/Java_runoob/tree/master/generics) 
 * 泛型方法、泛型类、类型通配符
+
+#### 菜鸟教程 Java高级教程 4 序列化 [部分代码](https://github.com/malele4th/Java_runoob/tree/master/serialize) 
+* 序列化对象（持久化、写入磁盘），transient关键字
+* 反序列化
+
+#### 菜鸟教程 Java高级教程 5 网络编程 [部分代码](https://github.com/malele4th/Java_runoob/tree/master/Internet) 
+* Socket编：ServerSocket类、Socket类、URL处理
